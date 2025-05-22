@@ -52,6 +52,12 @@ npm run build
 4. Push to the branch (`git push origin feature/YourFeature`)
 5. Create a new Pull Request
 
+## Deployed URL
+
+```bash
+https://file-dir.netlify.app
+```
+
 ## License
 
 MIT License
